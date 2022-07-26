@@ -16,3 +16,6 @@ node_modules/
 
 # environvent
 .env
+
+# IDE
+.idea/
