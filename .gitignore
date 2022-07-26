@@ -1,0 +1,18 @@
+# logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# coverage
+coverage/
+*.lcov
+
+# dependencies
+node_modules/
+
+# environvent
+.env
